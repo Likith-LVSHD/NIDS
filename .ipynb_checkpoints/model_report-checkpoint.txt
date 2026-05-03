@@ -1,0 +1,31 @@
+Random Forest
+              precision    recall  f1-score   support
+
+     anomaly       0.98      0.99      0.99      2567
+      normal       0.99      0.98      0.98      1942
+
+    accuracy                           0.99      4509
+   macro avg       0.99      0.98      0.99      4509
+weighted avg       0.99      0.99      0.99      4509
+
+
+Logistic Regression
+              precision    recall  f1-score   support
+
+     anomaly       0.95      0.96      0.96      2567
+      normal       0.95      0.93      0.94      1942
+
+    accuracy                           0.95      4509
+   macro avg       0.95      0.95      0.95      4509
+weighted avg       0.95      0.95      0.95      4509
+
+
+SVM
+              precision    recall  f1-score   support
+
+     anomaly       0.95      0.99      0.97      2567
+      normal       0.99      0.94      0.96      1942
+
+    accuracy                           0.97      4509
+   macro avg       0.97      0.96      0.97      4509
+weighted avg       0.97      0.97      0.97      4509
